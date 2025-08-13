@@ -40,3 +40,6 @@ Weiser’s vision has influenced:
 - **Ambient Computing** – voice assistants (Alexa, Google Assistant), smart sensors.
 - **AR/VR and Context-Aware Systems** – devices that adapt to users’ needs and environments.
 - **Edge Computing** – bringing processing power closer to users for speed and privacy.
+
+---
+[Download DOCX](Mark Weiser.docx) 
