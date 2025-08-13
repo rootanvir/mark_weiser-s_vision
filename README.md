@@ -42,5 +42,5 @@ Weiser’s vision has influenced:
 - **Edge Computing** – bringing processing power closer to users for speed and privacy.
 
 ---
-[Download DOCX]("Mark Weiser.docx")
+[Download DOCX](/MarkWeiser.docx)
 
